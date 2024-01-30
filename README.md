@@ -3,6 +3,7 @@
 - Estado del proyecto: finalizado.
 
 - -Descripcion
+  
   -- Este proyecto es un juego interactivo que desafía a los jugadores a adivinar un número aleatorio 
      dentro de un rango especificado.
   
